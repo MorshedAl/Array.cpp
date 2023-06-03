@@ -32,8 +32,9 @@ int main()
     
     */
 
+// array declare
 
-    int arr[5];
+int arr[5];
 
     // array input
     for(int i=0; i<5; i++)
