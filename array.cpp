@@ -29,7 +29,8 @@ int main()
   # int arr[11/2];
   #int arr[5]={0};
     
-    
+ address= base address +index*4
+   here, 4 means 4 bits int data_type  
     */
 
 // array declare
