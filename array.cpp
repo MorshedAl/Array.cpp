@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    /*
 //initialize at compile time
     int arr[]={5,10,15,20,25 };
 
